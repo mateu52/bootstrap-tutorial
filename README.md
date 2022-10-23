@@ -1,3 +1,3 @@
 # bootstrap-tutorial
-tutorial Mirosława zelenta
+tutorial Mirosława Zelenta
 siatka bootstrapowa, układ kolumn
