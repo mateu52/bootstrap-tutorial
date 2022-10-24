@@ -30,3 +30,10 @@ h1 {
 .races figcaption{
 	margin-top: 8px;
 }
+
+/* .navbar-nav li:hover > .dropdown-menu{
+  display: block;
+} */
+.bg-races{
+  background-color: #C0D06F !important;
+}
