@@ -1,0 +1,16 @@
+.parent {
+    border: 2px black dotted;
+    display: inline-block;
+}
+.box {
+    display: inline-block;
+    background: red;
+    width: 100px;
+    height: 100px;
+   }
+#two {
+     background: green;
+     position: absolute;
+     top: 20px;
+    left: 20px;
+}
